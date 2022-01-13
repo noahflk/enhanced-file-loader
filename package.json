@@ -1,6 +1,6 @@
 {
   "name": "enhanced-file-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An enhanced file loader module for webpack",
   "license": "MIT",
   "repository": "noahflk/enhanced-file-loader",
